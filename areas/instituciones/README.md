@@ -16,8 +16,9 @@ Las mejores políticas económicas, educativas o de seguridad fracasan si las in
 | **Descentralización** | Competencias y recursos de estados y municipios |
 | **Función pública** | Servicio civil profesional, ingreso por concurso, estabilidad |
 | **Anticorrupción** | Declaraciones patrimoniales, contratación pública abierta, órganos de control |
-| **Gobierno digital** | Trámites en línea, identidad digital, datos abiertos |
 | **Verdad, justicia y reconciliación** | Mecanismos para afrontar el pasado y garantizar la no repetición |
+
+*El gobierno digital, la identidad digital y los datos abiertos se trabajan en [Tecnología](../tecnologia/).*
 
 ## Propuestas
 
@@ -27,7 +28,6 @@ Las mejores políticas económicas, educativas o de seguridad fracasan si las in
 
 - Sistema de selección de jueces por concurso público y con participación de actores independientes.
 - Portal único de contratación pública con datos abiertos.
-- Digitalización de trámites ciudadanos y registro civil.
 - Ley de servicio civil profesional.
 - Garantías para el voto de los venezolanos en el exterior.
 - Declaraciones patrimoniales públicas de altos funcionarios.
@@ -41,7 +41,7 @@ Las mejores políticas económicas, educativas o de seguridad fracasan si las in
 
 ## Experiencias comparables para estudiar
 
-Estonia (gobierno digital), Chile y España (transiciones democráticas), Sudáfrica (Comisión de la Verdad y la Reconciliación), Colombia (justicia transicional), Uruguay (institucionalidad electoral), Georgia (lucha contra la corrupción administrativa).
+Chile y España (transiciones democráticas), Sudáfrica (Comisión de la Verdad y la Reconciliación), Colombia (justicia transicional), Uruguay (institucionalidad electoral), Georgia (lucha contra la corrupción administrativa).
 
 ## Fuentes de datos
 
@@ -49,7 +49,7 @@ Constitución y leyes vigentes, Transparencia Venezuela, Acceso a la Justicia, O
 
 ## Perfiles que buscamos
 
-Constitucionalistas, politólogos, abogados, especialistas electorales, expertos en gestión pública y desarrolladores con experiencia en gobierno digital.
+Constitucionalistas, politólogos, abogados, especialistas electorales y expertos en gestión pública.
 
 ## Mantenedores
 

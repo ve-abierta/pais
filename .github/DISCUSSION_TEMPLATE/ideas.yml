@@ -13,6 +13,7 @@ body:
         - Instituciones
         - Salud
         - Infraestructura
+        - Tecnología
         - Varias áreas
     validations:
       required: true

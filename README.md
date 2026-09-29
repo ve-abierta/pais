@@ -67,6 +67,7 @@ Para mantener su credibilidad, País no negocia apoyos a cambio de influencia, n
 | [`instituciones/`](areas/instituciones/) | ¿Qué diseño institucional garantiza democracia, contrapesos y justicia independiente? |
 | [`salud/`](areas/salud/) | ¿Cómo reconstruimos un sistema de salud accesible y funcional? |
 | [`infraestructura/`](areas/infraestructura/) | ¿Cómo garantizamos electricidad, agua, vialidad y conectividad? |
+| [`tecnologia/`](areas/tecnologia/) | ¿Cómo usamos la tecnología para modernizar el Estado y crear una economía digital? |
 
 ---
 

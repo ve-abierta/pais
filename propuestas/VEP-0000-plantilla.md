@@ -1,7 +1,7 @@
 ---
 vep: 0000
 titulo: Título corto y descriptivo de la propuesta
-area: economia | turismo | educacion | seguridad | instituciones | salud | infraestructura | gobernanza
+area: economia | turismo | educacion | seguridad | instituciones | salud | infraestructura | tecnologia | gobernanza
 estado: Borrador
 autores: [tu-usuario-de-github]
 creada: AAAA-MM-DD
