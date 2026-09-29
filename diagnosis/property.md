@@ -8,6 +8,7 @@
 |-----------|-------------|-----|-----------------|-------|
 | Tiempo y costo de registrar una compraventa | — | — | SAREN, Banco Mundial | |
 | Viviendas públicas entregadas sin título pleno | — | — | Ministerio de Vivienda, estudios independientes | |
+| Contratos firmados bajo la ley de 2026 frente a los que siguen bajo la de 2011 | — | — | Registros, notarías, Cámara Inmobiliaria de Venezuela | |
 | Oferta de viviendas en alquiler | — | — | Cámara Inmobiliaria de Venezuela, portales inmobiliarios | |
 | Inmuebles expropiados u ocupados | — | — | Estudios académicos, gremios, organizaciones de derechos de propiedad | |
 | Crédito hipotecario sobre el PIB | — | — | BCV, SUDEBAN | |
