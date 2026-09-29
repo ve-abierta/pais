@@ -37,6 +37,7 @@ flowchart TD
         H[Salud de emergencia]
         AL[Alimentación]
         EL[Estabilización eléctrica]
+        SOL[VEP-0101<br/>Solar en servicios esenciales]
         SEG[Seguridad básica]
     end
     subgraph F1[Fase 1 · Reglas del juego]
@@ -61,6 +62,8 @@ flowchart TD
         DES[Descentralización]
     end
 
+    SOL --> H
+    SOL --> EL
     INST --> FIS
     MON --> FIS
     INST --> JUR
@@ -94,6 +97,7 @@ flowchart TD
 | Propuesta | Depende de | Por qué |
 |-----------|------------|---------|
 | [VEP-0001](proposals/VEP-0001-sovereign-fund-fiscal-rule.md) Regla fiscal y fondo soberano | Régimen monetario, instituciones independientes, reestructuración de la deuda | Con dolarización, la regla fiscal es aún más necesaria y el papel del BCV cambia. Sin instituciones independientes, el fondo corre la suerte del FIEM y el FONDEN. Los acreedores podrían reclamar los activos del fondo en el exterior. |
+| [VEP-0101](proposals/VEP-0101-solar-essential-services-self-consumption.md) Solar para servicios esenciales y autoconsumo | Nada para arrancar; la fase de conexión a la red depende de una reforma legal | Es de las pocas propuestas que pueden empezar en la fase 0: se financia con cooperación y diáspora, y el autoconsumo aislado no requiere cambiar la ley orgánica. |
 | [VEP-0100](proposals/VEP-0100-interoperability-platform.md) Interoperabilidad | Estabilización eléctrica, ley de protección de datos, instituciones independientes | Sin electricidad estable no hay servicio continuo. Sin protección de datos ni control independiente, la plataforma puede usarse para vigilar. |
 
 Cada nueva VEP debe indicar sus dependencias en el campo `related` de su encabezado y, si afecta a la secuencia, proponer un cambio a esta hoja de ruta.

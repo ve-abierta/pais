@@ -20,6 +20,7 @@ Las VEP (*Venezuela Enhancement Proposal*) son las propuestas formales del proye
 | [0000](VEP-0000-template.md) | Plantilla | — | — |
 | [0001](VEP-0001-sovereign-fund-fiscal-rule.md) | Fondo Soberano y Regla Fiscal para los ingresos petroleros | Economía | Borrador |
 | [0100](VEP-0100-interoperability-platform.md) | Plataforma Nacional de Interoperabilidad entre organismos públicos | Tecnología | Borrador |
+| [0101](VEP-0101-solar-essential-services-self-consumption.md) | Energía solar para servicios esenciales y legalización del autoconsumo | Energía | Borrador |
 
 ## Numeración
 

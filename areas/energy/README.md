@@ -25,14 +25,14 @@ Sin electricidad estable no funcionan los hospitales, las escuelas, la industria
 
 ## Propuestas
 
-*Todavía no hay propuestas en esta área. ¡Puedes escribir la primera!*
+| VEP | Título | Estado |
+|-----|--------|--------|
+| [VEP-0101](../../proposals/VEP-0101-solar-essential-services-self-consumption.md) | Energía solar para servicios esenciales y legalización del autoconsumo | Borrador |
 
 ## Propuestas que buscan autor
 
 - Plan de estabilización del sistema eléctrico nacional.
-- Marco legal para el autoconsumo solar, con venta de excedentes a la red (medición neta).
 - Subastas públicas de energía renovable abiertas a la inversión privada.
-- Programa de energía solar para hospitales, escuelas y bombeo de agua.
 - Plan de reducción de la quema de gas y su uso para generar electricidad.
 - Nuevo modelo tarifario con subsidio focalizado para hogares vulnerables.
 - Minirredes solares para comunidades aisladas.
