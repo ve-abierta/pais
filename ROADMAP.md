@@ -21,7 +21,7 @@ Ninguna reforma funciona aislada. Un fondo soberano no sobrevive sin institucion
 | Fase | Horizonte orientativo | Objetivo | Áreas protagonistas |
 |------|-----------------------|----------|---------------------|
 | **0. Emergencia** | Primeros meses | Proteger la vida y los servicios básicos | Salud, Agricultura y alimentación, Infraestructura, Seguridad ciudadana |
-| **1. Reglas del juego** | Primer y segundo año | Instituciones confiables y estabilidad económica | Instituciones, Economía (régimen monetario y fiscal), Política exterior |
+| **1. Reglas del juego** | Primer y segundo año | Instituciones confiables y estabilidad económica | Instituciones, Economía (régimen monetario y fiscal), Propiedad y vivienda, Política exterior |
 | **2. Reactivación** | Años 2 a 5 | Recuperar la producción, la inversión y el empleo | Economía, Turismo, Tecnología, Agricultura, Migración y diáspora |
 | **3. Desarrollo** | Años 5 en adelante | Crecimiento sostenible y capital humano | Educación, Medio ambiente, Tecnología, Instituciones (descentralización) |
 
@@ -46,6 +46,7 @@ flowchart TD
         DEU[Reestructuración de la deuda]
         MUL[Relación con multilaterales]
         JUR[Seguridad jurídica]
+        PROP[Marco de propiedad<br/>registro y arrendamientos]
     end
     subgraph F2[Fase 2 · Reactivación]
         HID[Hidrocarburos]
@@ -67,6 +68,10 @@ flowchart TD
     DEU --> HID
     JUR --> HID
     JUR --> AGR
+    INST --> PROP
+    PROP --> JUR
+    PROP --> AGR
+    PROP --> DIA
     FIS --> HID
     SEG --> TUR
     EL --> TUR
@@ -101,7 +106,7 @@ Algunos debates condicionan a muchas propuestas a la vez. Conviene resolverlos p
 
 1. **Régimen monetario:** dolarización formal, caja de conversión o banco central independiente. Afecta a la política fiscal, al fondo soberano, a la deuda y al sistema financiero.
 2. **Modelo de gestión del petróleo:** afecta a los ingresos públicos, al fondo soberano y a la inversión extranjera.
-3. **Tratamiento de las propiedades expropiadas:** afecta a la seguridad jurídica, la agricultura, la industria y la inversión.
+3. **Tratamiento de las propiedades expropiadas y ocupadas:** afecta a la seguridad jurídica, la agricultura, la industria, la vivienda, la inversión y el retorno de la diáspora. Se trabaja en [Propiedad y vivienda](areas/property/).
 4. **Diseño constitucional:** reforma o nueva Constitución. Afecta a todas las instituciones.
 
 ---

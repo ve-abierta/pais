@@ -62,6 +62,7 @@ Para mantener su credibilidad, País no negocia apoyos a cambio de influencia, n
 |------|------------------|
 | [Economía](areas/economy/) | ¿Cómo dejamos de depender del petróleo y generamos empleo productivo? |
 | [Agricultura y alimentación](areas/agriculture/) | ¿Cómo garantizamos que todos coman bien y convertimos el campo en un motor de empleo y exportación? |
+| [Propiedad y vivienda](areas/property/) | ¿Cómo garantizamos una propiedad clara, protegida y transferible, y un acceso digno a la vivienda? |
 | [Turismo](areas/tourism/) | ¿Cómo convertimos la riqueza natural y cultural en un motor económico sostenible? |
 | [Educación](areas/education/) | ¿Cómo recuperamos la escuela, la universidad y el talento que emigró? |
 | [Salud](areas/health/) | ¿Cómo reconstruimos un sistema de salud accesible y funcional? |

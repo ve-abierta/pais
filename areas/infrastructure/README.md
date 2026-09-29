@@ -15,9 +15,11 @@ Sin electricidad estable no hay industria, sin agua no hay salud y sin carretera
 | **Vialidad** | Carreteras, puentes, mantenimiento |
 | **Transporte** | Transporte público urbano, ferrocarril, puertos, aeropuertos |
 | **Telecomunicaciones** | Acceso a internet, cobertura móvil, competencia en el sector |
-| **Vivienda** | Déficit habitacional, títulos de propiedad, urbanismo |
+| **Urbanismo** | Planificación urbana, espacio público, servicios de barrio |
 | **Gas doméstico** | Suministro regular a hogares |
 | **Financiación** | Asociaciones público-privadas, concesiones, banca multilateral |
+
+*Relación con otras áreas: la vivienda, la titulación y el marco legal inmobiliario están en [Propiedad y vivienda](../property/).*
 
 ## Propuestas
 
@@ -30,7 +32,6 @@ Sin electricidad estable no hay industria, sin agua no hay salud y sin carretera
 - Programa de energía solar distribuida en zonas con suministro inestable.
 - Plan de agua potable por ciudades, empezando por las más afectadas.
 - Apertura del mercado de telecomunicaciones a la competencia.
-- Programa de titulación de viviendas.
 - Marco legal para asociaciones público-privadas en infraestructura.
 
 ## Grandes debates abiertos

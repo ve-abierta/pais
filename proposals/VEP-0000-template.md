@@ -1,7 +1,7 @@
 ---
 vep: 0000
 title: Título corto y descriptivo de la propuesta
-area: economy | tourism | education | public-safety | institutions | health | infrastructure | technology | environment | agriculture | diaspora | foreign-policy | media | governance
+area: economy | tourism | education | public-safety | institutions | health | infrastructure | technology | environment | agriculture | diaspora | foreign-policy | media | property | governance
 status: draft  # draft | review | accepted | rejected | withdrawn | superseded
 authors: [tu-usuario-de-github]
 created: AAAA-MM-DD

@@ -20,7 +20,7 @@ Venezuela tiene tierras fértiles, agua, clima variado y una tradición agrícol
 | **Investigación y extensión** | Institutos de investigación agrícola, asistencia técnica a productores |
 | **Pesca y acuicultura** | Gestión de recursos pesqueros, piscicultura |
 
-*Relación con otras áreas: la política de propiedad está en [Economía](../economy/), la alimentación escolar en [Educación](../education/) y el agua y los suelos en [Medio ambiente](../environment/).*
+*Relación con otras áreas: la política de propiedad está en [Economía](../economy/), la alimentación escolar en [Educación](../education/) el agua y los suelos en [Medio ambiente](../environment/), y el marco general de la propiedad y el registro en [Propiedad y vivienda](../property/).*
 
 ## Propuestas
 

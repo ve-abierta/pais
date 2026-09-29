@@ -27,5 +27,6 @@ El diagnóstico sirve de base común para todas las propuestas: una VEP puede ci
 | [Medio ambiente y recursos naturales](environment.md) | [Medio ambiente y recursos naturales](../areas/environment/) |
 | [Agricultura y alimentación](agriculture.md) | [Agricultura y alimentación](../areas/agriculture/) |
 | [Migración y diáspora](diaspora.md) | [Migración y diáspora](../areas/diaspora/) |
+| [Propiedad y vivienda](property.md) | [Propiedad y vivienda](../areas/property/) |
 | [Política exterior](foreign-policy.md) | [Política exterior](../areas/foreign-policy/) |
 | [Medios y libertad de expresión](media.md) | [Medios y libertad de expresión](../areas/media/) |

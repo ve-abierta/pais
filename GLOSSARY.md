@@ -64,6 +64,18 @@ Términos que aparecen en el proyecto, explicados para cualquier persona. Si enc
 
 ---
 
+## Propiedad
+
+**Catastro.** Inventario oficial de los inmuebles de un territorio, con su ubicación, superficie y valor.
+
+**Propiedad horizontal.** Régimen de los edificios divididos en viviendas o locales de distintos dueños, que comparten zonas comunes.
+
+**Registro inmobiliario.** Registro público que da fe de quién es el propietario de un inmueble y de sus cargas, como hipotecas o embargos.
+
+**Título pleno.** Documento de propiedad que permite al dueño usar, vender, alquilar, hipotecar y heredar el inmueble sin restricciones.
+
+---
+
 ## Tecnología
 
 **CSIRT.** Equipo de respuesta a incidentes de ciberseguridad.
