@@ -1,0 +1,34 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Economía
+        - Turismo
+        - Educación
+        - Seguridad
+        - Instituciones
+        - Salud
+        - Infraestructura
+        - Varias áreas
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: ¿Qué problema quieres resolver?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: ¿Cuál es tu idea?
+    validations:
+      required: true
+  - type: textarea
+    id: referencias
+    attributes:
+      label: Datos, fuentes o ejemplos de otros países (opcional)

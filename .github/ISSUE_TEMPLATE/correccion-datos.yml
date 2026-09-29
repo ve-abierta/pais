@@ -1,0 +1,31 @@
+name: 📊 Corrección de datos
+description: Señala un dato incorrecto, desactualizado o sin fuente.
+title: "[Datos] "
+labels: ["datos"]
+body:
+  - type: input
+    id: archivo
+    attributes:
+      label: Archivo afectado
+      placeholder: propuestas/VEP-0001-fondo-soberano-regla-fiscal.md
+    validations:
+      required: true
+  - type: textarea
+    id: dato-actual
+    attributes:
+      label: ¿Qué dice ahora?
+    validations:
+      required: true
+  - type: textarea
+    id: dato-correcto
+    attributes:
+      label: ¿Qué debería decir?
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Fuente
+      description: Enlace o referencia que respalda la corrección.
+    validations:
+      required: true

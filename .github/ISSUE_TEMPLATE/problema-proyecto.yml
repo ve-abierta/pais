@@ -1,0 +1,11 @@
+name: 🔧 Problema del proyecto
+description: Enlaces rotos, errores de formato u otros problemas del repositorio.
+title: "[Proyecto] "
+labels: ["proyecto"]
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Describe el problema
+    validations:
+      required: true
