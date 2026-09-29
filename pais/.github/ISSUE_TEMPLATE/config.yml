@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 💡 Proponer o debatir una idea
-    url: https://github.com/ORGANIZACION/pais/discussions
-    about: Las ideas y debates van en Discusiones, no en issues.
-  - name: 🛡️ Reportar una conducta inaceptable
-    url: https://github.com/ORGANIZACION/pais/blob/main/CODE_OF_CONDUCT.md#cómo-reportar
-    about: Reportes confidenciales según el Código de Conducta.
