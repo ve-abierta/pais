@@ -1,18 +1,18 @@
 ---
 vep: 0000
-titulo: Título corto y descriptivo de la propuesta
-area: economia | turismo | educacion | seguridad | instituciones | salud | infraestructura | tecnologia | gobernanza
-estado: Borrador
-autores: [tu-usuario-de-github]
-creada: AAAA-MM-DD
-actualizada: AAAA-MM-DD
-reemplaza: ninguna
-relacionadas: []
+title: Título corto y descriptivo de la propuesta
+area: economy | tourism | education | public-safety | institutions | health | infrastructure | technology | environment | agriculture | diaspora | foreign-policy | governance
+status: draft  # draft | review | accepted | rejected | withdrawn | superseded
+authors: [tu-usuario-de-github]
+created: AAAA-MM-DD
+updated: AAAA-MM-DD
+replaces: []
+related: []
 ---
 
 # VEP-0000: Título de la propuesta
 
-> **Cómo usar esta plantilla:** copia este archivo como `VEP-XXXX-titulo-corto.md`, usa `XXXX` como número provisional (los mantenedores asignarán el definitivo al fusionar), rellena cada sección y borra estas notas en cursiva. Si una sección no aplica, escribe "No aplica" y explica brevemente por qué.
+> **Cómo usar esta plantilla:** copia este archivo como `VEP-XXXX-short-title.md` (nombre de archivo en inglés; contenido en castellano), usa `XXXX` como número provisional (los mantenedores asignarán el definitivo al fusionar), rellena cada sección, mantén en inglés las claves y valores del encabezado (los lee la automatización del proyecto) y borra estas notas en cursiva. Si una sección no aplica, escribe "No aplica" y explica brevemente por qué.
 
 ## Resumen
 

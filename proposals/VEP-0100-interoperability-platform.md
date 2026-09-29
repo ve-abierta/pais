@@ -1,13 +1,13 @@
 ---
 vep: 0100
-titulo: Plataforma Nacional de Interoperabilidad entre organismos públicos
-area: tecnologia
-estado: Borrador
-autores: [silvinux]
-creada: 2026-09-29
-actualizada: 2026-09-29
-reemplaza: ninguna
-relacionadas: [VEP-0001]
+title: Plataforma Nacional de Interoperabilidad entre organismos públicos
+area: technology
+status: draft
+authors: [silvinux]
+created: 2026-09-29
+updated: 2026-09-29
+replaces: []
+related: [VEP-0001]
 ---
 
 # VEP-0100: Plataforma Nacional de Interoperabilidad entre organismos públicos
@@ -104,7 +104,7 @@ El valor de la plataforma depende de conectar primero los registros que más se 
   - Que todo intercambio necesita una base legal publicada en el catálogo.
   - Sanciones por accesos indebidos.
 - **Autoridad de interoperabilidad**, un organismo técnico que opera el centro de operación, publica los estándares y certifica a los organismos que se conectan.
-- **Vinculación con la futura ley de protección de datos personales** (ver el área de [Tecnología](../areas/tecnologia/)).
+- **Vinculación con la futura ley de protección de datos personales** (ver el área de [Tecnología](../areas/technology/)).
 
 ### ¿Quién lo ejecuta?
 

@@ -7,13 +7,17 @@ body:
       label: Área
       options:
         - Economía
+        - Agricultura y alimentación
         - Turismo
         - Educación
-        - Seguridad
+        - Seguridad ciudadana
         - Instituciones
         - Salud
         - Infraestructura
         - Tecnología
+        - Medio ambiente
+        - Migración y diáspora
+        - Política exterior
         - Varias áreas
     validations:
       required: true

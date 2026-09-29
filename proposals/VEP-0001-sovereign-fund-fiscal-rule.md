@@ -1,13 +1,13 @@
 ---
 vep: 0001
-titulo: Fondo Soberano y Regla Fiscal para los ingresos petroleros
-area: economia
-estado: Borrador
-autores: [silvinux]
-creada: 2026-09-29
-actualizada: 2026-09-29
-reemplaza: ninguna
-relacionadas: []
+title: Fondo Soberano y Regla Fiscal para los ingresos petroleros
+area: economy
+status: draft
+authors: [silvinux]
+created: 2026-09-29
+updated: 2026-09-29
+replaces: []
+related: []
 ---
 
 # VEP-0001: Fondo Soberano y Regla Fiscal para los ingresos petroleros

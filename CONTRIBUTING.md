@@ -2,7 +2,7 @@
 
 Gracias por querer aportar a País. No necesitas ser experto ni saber programar: toda contribución hecha de buena fe suma.
 
-Antes de empezar, lee el [MANIFIESTO](MANIFIESTO.md) y el [Código de Conducta](CODE_OF_CONDUCT.md).
+Antes de empezar, lee el [MANIFIESTO](MANIFESTO.md) y el [Código de Conducta](CODE_OF_CONDUCT.md).
 
 ---
 
@@ -11,6 +11,7 @@ Antes de empezar, lee el [MANIFIESTO](MANIFIESTO.md) y el [Código de Conducta](
 | Quiero... | Qué hacer |
 |-----------|-----------|
 | **Compartir una idea** | Abre una [Discusión](../../discussions) en la categoría del área correspondiente |
+| **Aportar datos** | Rellena un indicador del [diagnóstico](diagnosis/) de tu área, con su fuente |
 | **Corregir un dato o un error** | Abre un issue con la plantilla *Corrección de datos* o envía un pull request |
 | **Escribir una propuesta** | Sigue los pasos de la sección *Escribir una VEP* |
 | **Revisar propuestas** | Comenta en los pull requests abiertos con datos, fuentes y argumentos |
@@ -21,12 +22,12 @@ Antes de empezar, lee el [MANIFIESTO](MANIFIESTO.md) y el [Código de Conducta](
 ## Escribir una VEP
 
 1. **Empieza con una Discusión.** Comprueba si hay interés, si alguien ya trabaja en algo parecido y recoge datos.
-2. **Copia la plantilla.** Duplica [`propuestas/VEP-0000-plantilla.md`](propuestas/VEP-0000-plantilla.md) y nómbrala `VEP-XXXX-titulo-corto.md`.
+2. **Copia la plantilla.** Duplica [`proposals/VEP-0000-template.md`](proposals/VEP-0000-template.md) y nómbrala `VEP-XXXX-short-title.md`. El nombre del archivo va en inglés y el contenido en castellano.
 3. **Redacta.** Rellena todas las secciones. Si te falta información, anótalo en *Preguntas abiertas*: una propuesta con huecos reconocidos es mejor que una que los esconde.
 4. **Abre un pull request.** Un mantenedor revisará la estructura y le asignará un número definitivo.
 5. **Participa en la revisión.** Durante al menos 21 días, responde a los comentarios e incorpora mejoras.
 
-El proceso completo de decisión está en [GOBERNANZA](GOBERNANZA.md).
+El proceso completo de decisión está en [GOBERNANZA](GOVERNANCE.md).
 
 ---
 

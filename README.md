@@ -60,22 +60,39 @@ Para mantener su credibilidad, País no negocia apoyos a cambio de influencia, n
 
 | Área | Pregunta central |
 |------|------------------|
-| [`economia/`](areas/economia/) | ¿Cómo dejamos de depender del petróleo y generamos empleo productivo? |
-| [`turismo/`](areas/turismo/) | ¿Cómo convertimos la riqueza natural y cultural en un motor económico sostenible? |
-| [`educacion/`](areas/educacion/) | ¿Cómo recuperamos la escuela, la universidad y el talento que emigró? |
-| [`seguridad/`](areas/seguridad/) | ¿Cómo construimos seguridad ciudadana con respeto a los derechos humanos? |
-| [`instituciones/`](areas/instituciones/) | ¿Qué diseño institucional garantiza democracia, contrapesos y justicia independiente? |
-| [`salud/`](areas/salud/) | ¿Cómo reconstruimos un sistema de salud accesible y funcional? |
-| [`infraestructura/`](areas/infraestructura/) | ¿Cómo garantizamos electricidad, agua, vialidad y conectividad? |
-| [`tecnologia/`](areas/tecnologia/) | ¿Cómo usamos la tecnología para modernizar el Estado y crear una economía digital? |
+| [Economía](areas/economy/) | ¿Cómo dejamos de depender del petróleo y generamos empleo productivo? |
+| [Agricultura y alimentación](areas/agriculture/) | ¿Cómo garantizamos que todos coman bien y convertimos el campo en un motor de empleo y exportación? |
+| [Turismo](areas/tourism/) | ¿Cómo convertimos la riqueza natural y cultural en un motor económico sostenible? |
+| [Educación](areas/education/) | ¿Cómo recuperamos la escuela, la universidad y el talento que emigró? |
+| [Salud](areas/health/) | ¿Cómo reconstruimos un sistema de salud accesible y funcional? |
+| [Seguridad ciudadana](areas/public-safety/) | ¿Cómo construimos seguridad ciudadana con respeto a los derechos humanos? |
+| [Instituciones](areas/institutions/) | ¿Qué diseño institucional garantiza democracia, contrapesos y justicia independiente? |
+| [Infraestructura](areas/infrastructure/) | ¿Cómo garantizamos electricidad, agua, vialidad y conectividad? |
+| [Tecnología](areas/technology/) | ¿Cómo usamos la tecnología para modernizar el Estado y crear una economía digital? |
+| [Medio ambiente](areas/environment/) | ¿Cómo protegemos el patrimonio natural y lo convertimos en bienestar sostenible? |
+| [Migración y diáspora](areas/diaspora/) | ¿Cómo mantenemos unidos a los venezolanos de dentro y de fuera y facilitamos el retorno? |
+| [Política exterior](areas/foreign-policy/) | ¿Cómo se relaciona Venezuela con el mundo para favorecer su reconstrucción? |
+
+## Documentos del proyecto
+
+| Documento | Para qué sirve |
+|-----------|----------------|
+| [Hoja de ruta](ROADMAP.md) | Qué debería ir primero y cómo dependen unas reformas de otras |
+| [Diagnóstico](diagnosis/) | Cómo están las cosas hoy, área por área, con datos y fuentes |
+| [Manifiesto](MANIFESTO.md) | Los principios que todos aceptamos al contribuir |
+| [Gobernanza](GOVERNANCE.md) | Quién decide y cómo se aprueban las propuestas |
+| [Cómo contribuir](CONTRIBUTING.md) | Guía paso a paso para participar |
+| [Código de conducta](CODE_OF_CONDUCT.md) | Normas de convivencia y cómo reportar problemas |
+| [Glosario](GLOSSARY.md) | Términos técnicos explicados para cualquier persona |
+| [Preguntas frecuentes](FAQ.md) | Respuestas a las dudas más habituales |
 
 ---
 
 ## Cómo participar
 
-1. **Lee el [MANIFIESTO](MANIFIESTO.md)**, que contiene los principios que todos aceptamos al contribuir.
+1. **Lee el [Manifiesto](MANIFESTO.md)**, que contiene los principios que todos aceptamos al contribuir.
 2. **Explora las [Discusiones](../../discussions)** para proponer ideas abiertas, hacer preguntas o debatir.
-3. **Escribe una propuesta formal** usando la [plantilla VEP](propuestas/VEP-0000-plantilla.md) cuando una idea esté madura.
+3. **Escribe una propuesta formal** usando la [plantilla VEP](proposals/VEP-0000-template.md) cuando una idea esté madura.
 4. **Revisa propuestas de otros.** Comentar con datos y argumentos es tan valioso como escribir.
 
 No necesitas saber programar. Si no usas Git, puedes participar desde la web de GitHub o abrir una Discusión.
@@ -88,15 +105,9 @@ No necesitas saber programar. Si no usas Git, puedes participar desde la web de 
 
 Las propuestas se identifican como **VEP-XXXX** (*Venezuela Enhancement Proposal*), inspiradas en los procesos RFC de Internet y PEP de Python.
 
-| Estado | Significado |
-|--------|-------------|
-| `Borrador` | En redacción, abierta a cambios profundos |
-| `En revisión` | Completa, en debate público |
-| `Aceptada` | Aprobada por los mantenedores del área |
-| `Rechazada` | Descartada, con los motivos documentados |
-| `Reemplazada` | Superada por una propuesta posterior |
+Cada propuesta pasa por los estados de borrador, revisión y decisión descritos en [GOVERNANCE](GOVERNANCE.md).
 
-Ver el índice completo en [`propuestas/`](propuestas/).
+Ver el índice completo en [`proposals/`](proposals/).
 
 ---
 

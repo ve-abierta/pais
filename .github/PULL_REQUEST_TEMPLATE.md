@@ -16,7 +16,7 @@
 
 ## Comprobaciones
 
-- [ ] He leído el [MANIFIESTO](../MANIFIESTO.md) y el [Código de Conducta](../CODE_OF_CONDUCT.md)
+- [ ] He leído el [MANIFIESTO](../MANIFESTO.md) y el [Código de Conducta](../CODE_OF_CONDUCT.md)
 - [ ] Las cifras citan su fuente
 - [ ] No menciono a personas, partidos ni candidatos concretos
 - [ ] Si es una VEP, he completado todas las secciones de la plantilla (o he explicado por qué no aplican)

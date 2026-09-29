@@ -4,7 +4,7 @@
 
 Quienes participamos en País, como contribuyentes, revisores, mantenedores y miembros del Consejo, nos comprometemos a que la participación en este proyecto sea una experiencia libre de acoso para todas las personas, sin importar su edad, origen, lugar de residencia, condición de migrante, identidad o expresión de género, orientación sexual, discapacidad, apariencia, nivel educativo, situación económica, religión, etnia o pertenencia a pueblos indígenas.
 
-También nos comprometemos a que **nadie sea discriminado ni atacado por sus opiniones políticas**, siempre que las exprese dentro de los principios del [MANIFIESTO](MANIFIESTO.md). Aquí conviven personas que piensan distinto; eso es precisamente lo que hace valioso el proyecto.
+También nos comprometemos a que **nadie sea discriminado ni atacado por sus opiniones políticas**, siempre que las exprese dentro de los principios del [MANIFIESTO](MANIFESTO.md). Aquí conviven personas que piensan distinto; eso es precisamente lo que hace valioso el proyecto.
 
 ## Comportamiento esperado
 
@@ -72,7 +72,7 @@ Los mantenedores aplicarán estas medidas según la gravedad de cada caso.
 **Conducta:** un patrón de faltas, acoso a una persona o cualquier conducta de la sección *Seguridad de las personas*.
 **Consecuencia:** expulsión permanente de todos los espacios del proyecto.
 
-Toda persona sancionada puede apelar ante el Consejo de Gobernanza, según lo previsto en [GOBERNANZA](GOBERNANZA.md).
+Toda persona sancionada puede apelar ante el Consejo de Gobernanza, según lo previsto en [GOBERNANZA](GOVERNANCE.md).
 
 ## Atribución
 

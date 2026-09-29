@@ -25,7 +25,7 @@ Cada área tiene entre 2 y 5 mantenedores. Ninguna persona puede ser mantenedora
 ### Consejo de Gobernanza
 Un grupo de 5 personas que:
 
-- Cuida el cumplimiento del [MANIFIESTO](MANIFIESTO.md).
+- Cuida el cumplimiento del [MANIFIESTO](MANIFESTO.md).
 - Resuelve conflictos entre áreas o apelaciones.
 - Aprueba las VEP que modifican este documento o el Manifiesto.
 - Nombra o destituye mantenedores cuando el área no puede hacerlo por sí misma.
@@ -43,7 +43,7 @@ Aceptada → Reemplazada (si una VEP posterior la supera)
 ```
 
 1. **Idea.** Se abre una Discusión en la categoría del área. Sirve para comprobar si hay interés y recoger datos antes de redactar.
-2. **Borrador.** El autor abre un Pull Request con la propuesta basada en la [plantilla](propuestas/VEP-0000-plantilla.md). Un mantenedor verifica que la estructura esté completa y le asigna número.
+2. **Borrador.** El autor abre un Pull Request con la propuesta basada en la [plantilla](proposals/VEP-0000-template.md). Un mantenedor verifica que la estructura esté completa y le asigna número.
 3. **En revisión.** Comienza un periodo de comentarios públicos de **al menos 21 días**. El autor incorpora cambios en el mismo PR.
 4. **Decisión.** Al cerrar el periodo, los mantenedores del área deciden:
    - **Aceptada:** requiere la aprobación de al menos 2 mantenedores y ninguna objeción fundamentada sin resolver.
