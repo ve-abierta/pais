@@ -71,6 +71,7 @@ Para mantener su credibilidad, País no negocia apoyos a cambio de influencia, n
 | [Tecnología](areas/technology/) | ¿Cómo usamos la tecnología para modernizar el Estado y crear una economía digital? |
 | [Medio ambiente](areas/environment/) | ¿Cómo protegemos el patrimonio natural y lo convertimos en bienestar sostenible? |
 | [Migración y diáspora](areas/diaspora/) | ¿Cómo mantenemos unidos a los venezolanos de dentro y de fuera y facilitamos el retorno? |
+| [Medios y libertad de expresión](areas/media/) | ¿Cómo garantizamos que los venezolanos puedan informarse libremente y debatir con información veraz? |
 | [Política exterior](areas/foreign-policy/) | ¿Cómo se relaciona Venezuela con el mundo para favorecer su reconstrucción? |
 
 ## Documentos del proyecto

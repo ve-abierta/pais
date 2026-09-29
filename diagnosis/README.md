@@ -28,3 +28,4 @@ El diagnóstico sirve de base común para todas las propuestas: una VEP puede ci
 | [Agricultura y alimentación](agriculture.md) | [Agricultura y alimentación](../areas/agriculture/) |
 | [Migración y diáspora](diaspora.md) | [Migración y diáspora](../areas/diaspora/) |
 | [Política exterior](foreign-policy.md) | [Política exterior](../areas/foreign-policy/) |
+| [Medios y libertad de expresión](media.md) | [Medios y libertad de expresión](../areas/media/) |

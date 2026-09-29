@@ -18,7 +18,7 @@ Las mejores políticas económicas, educativas o de seguridad fracasan si las in
 | **Anticorrupción** | Declaraciones patrimoniales, contratación pública abierta, órganos de control |
 | **Verdad, justicia y reconciliación** | Mecanismos para afrontar el pasado y garantizar la no repetición |
 
-*El gobierno digital, la identidad digital y los datos abiertos se trabajan en [Tecnología](../technology/).*
+*La libertad de prensa y el acceso a la información se trabajan en [Medios](../media/). El gobierno digital, la identidad digital y los datos abiertos se trabajan en [Tecnología](../technology/).*
 
 ## Propuestas
 
