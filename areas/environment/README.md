@@ -19,7 +19,7 @@ Venezuela es uno de los países megadiversos del planeta: comparte la Amazonía,
 | **Institucionalidad ambiental** | Autoridad ambiental con capacidad técnica, evaluación de impacto, fiscalización |
 | **Economía verde** | Pagos por servicios ambientales, bonos de carbono, ecoturismo, bioeconomía |
 
-*Relación con otras áreas: la seguridad en zonas mineras está en [Seguridad ciudadana](../public-safety/), los parques nacionales como destino en [Turismo](../tourism/) y el modelo energético en [Infraestructura](../infrastructure/).*
+*Relación con otras áreas: la seguridad en zonas mineras está en [Seguridad ciudadana](../public-safety/), los parques nacionales como destino en [Turismo](../tourism/) y el modelo energético y las renovables en [Energía](../energy/).*
 
 ## Propuestas
 

@@ -22,6 +22,7 @@ El diagnóstico sirve de base común para todas las propuestas: una VEP puede ci
 | [Seguridad ciudadana](public-safety.md) | [Seguridad ciudadana](../areas/public-safety/) |
 | [Instituciones](institutions.md) | [Instituciones](../areas/institutions/) |
 | [Salud](health.md) | [Salud](../areas/health/) |
+| [Energía](energy.md) | [Energía](../areas/energy/) |
 | [Infraestructura](infrastructure.md) | [Infraestructura](../areas/infrastructure/) |
 | [Tecnología y transformación digital](technology.md) | [Tecnología y transformación digital](../areas/technology/) |
 | [Medio ambiente y recursos naturales](environment.md) | [Medio ambiente y recursos naturales](../areas/environment/) |

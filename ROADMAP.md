@@ -20,10 +20,10 @@ Ninguna reforma funciona aislada. Un fondo soberano no sobrevive sin institucion
 
 | Fase | Horizonte orientativo | Objetivo | Áreas protagonistas |
 |------|-----------------------|----------|---------------------|
-| **0. Emergencia** | Primeros meses | Proteger la vida y los servicios básicos | Salud, Agricultura y alimentación, Infraestructura, Seguridad ciudadana |
+| **0. Emergencia** | Primeros meses | Proteger la vida y los servicios básicos | Salud, Agricultura y alimentación, Energía, Infraestructura, Seguridad ciudadana |
 | **1. Reglas del juego** | Primer y segundo año | Instituciones confiables y estabilidad económica | Instituciones, Economía (régimen monetario y fiscal), Propiedad y vivienda, Política exterior |
 | **2. Reactivación** | Años 2 a 5 | Recuperar la producción, la inversión y el empleo | Economía, Turismo, Tecnología, Agricultura, Migración y diáspora |
-| **3. Desarrollo** | Años 5 en adelante | Crecimiento sostenible y capital humano | Educación, Medio ambiente, Tecnología, Instituciones (descentralización) |
+| **3. Desarrollo** | Años 5 en adelante | Crecimiento sostenible y capital humano | Educación, Medio ambiente, Energía (transición renovable), Tecnología, Instituciones (descentralización) |
 
 Los horizontes son orientativos y dependen del contexto político y económico del momento en que se apliquen.
 

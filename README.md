@@ -68,7 +68,8 @@ Para mantener su credibilidad, País no negocia apoyos a cambio de influencia, n
 | [Salud](areas/health/) | ¿Cómo reconstruimos un sistema de salud accesible y funcional? |
 | [Seguridad ciudadana](areas/public-safety/) | ¿Cómo construimos seguridad ciudadana con respeto a los derechos humanos? |
 | [Instituciones](areas/institutions/) | ¿Qué diseño institucional garantiza democracia, contrapesos y justicia independiente? |
-| [Infraestructura](areas/infrastructure/) | ¿Cómo garantizamos electricidad, agua, vialidad y conectividad? |
+| [Energía](areas/energy/) | ¿Cómo garantizamos electricidad estable, asequible y limpia? |
+| [Infraestructura](areas/infrastructure/) | ¿Cómo garantizamos agua, vialidad, transporte y conectividad? |
 | [Tecnología](areas/technology/) | ¿Cómo usamos la tecnología para modernizar el Estado y crear una economía digital? |
 | [Medio ambiente](areas/environment/) | ¿Cómo protegemos el patrimonio natural y lo convertimos en bienestar sostenible? |
 | [Migración y diáspora](areas/diaspora/) | ¿Cómo mantenemos unidos a los venezolanos de dentro y de fuera y facilitamos el retorno? |

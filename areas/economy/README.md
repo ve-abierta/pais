@@ -21,7 +21,7 @@ Durante décadas, la economía venezolana ha girado en torno al petróleo, que h
 | **Emprendimiento y empleo** | Facilidad para crear empresas, crédito, formalización, mercado laboral |
 | **Protección social** | Transferencias focalizadas y transparentes, pensiones |
 
-*Relación con otras áreas: la agricultura y la alimentación tienen su propia área en [Agricultura](../agriculture/), la minería ilegal se trata en [Medio ambiente](../environment/) y el marco legal inmobiliario en [Propiedad y vivienda](../property/).*
+*Relación con otras áreas: la agricultura y la alimentación tienen su propia área en [Agricultura](../agriculture/), la electricidad y las renovables en [Energía](../energy/), la minería ilegal se trata en [Medio ambiente](../environment/) y el marco legal inmobiliario en [Propiedad y vivienda](../property/).*
 
 ## Propuestas
 

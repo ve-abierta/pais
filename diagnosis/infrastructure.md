@@ -6,8 +6,6 @@
 
 | Indicador | Último dato | Año | Fuente sugerida | Notas |
 |-----------|-------------|-----|-----------------|-------|
-| Capacidad de generación eléctrica instalada y disponible | — | — | CORPOELEC, estudios independientes | |
-| Frecuencia y duración de los cortes eléctricos | — | — | Observatorios de servicios públicos | |
 | Hogares con suministro de agua continuo | — | — | ENCOVI (UCAB), observatorios de servicios | |
 | Velocidad media de internet fijo y móvil | — | — | Ookla, CONATEL | |
 | Porcentaje de hogares con acceso a internet | — | — | CONATEL, UIT | |
