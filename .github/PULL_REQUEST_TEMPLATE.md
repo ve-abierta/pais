@@ -20,4 +20,5 @@
 - [ ] Las cifras citan su fuente
 - [ ] No menciono a personas, partidos ni candidatos concretos
 - [ ] Si es una VEP, he completado todas las secciones de la plantilla (o he explicado por qué no aplican)
+- [ ] Si usé IA, lo declaro y he verificado personalmente cada dato y cada fuente ([AI_POLICY](../AI_POLICY.md))
 - [ ] Declaro cualquier interés personal o económico relacionado con este cambio

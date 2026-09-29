@@ -8,11 +8,12 @@ created: AAAA-MM-DD
 updated: AAAA-MM-DD
 replaces: []
 related: []
+ai_assisted: false  # true si usaste IA; explica el uso en el historial de cambios (ver AI_POLICY.md)
 ---
 
 # VEP-0000: Título de la propuesta
 
-> **Cómo usar esta plantilla:** copia este archivo como `VEP-XXXX-short-title.md` (nombre de archivo en inglés; contenido en castellano), usa `XXXX` como número provisional (los mantenedores asignarán el definitivo al fusionar), rellena cada sección, mantén en inglés las claves y valores del encabezado (los lee la automatización del proyecto) y borra estas notas en cursiva. Si una sección no aplica, escribe "No aplica" y explica brevemente por qué.
+> **Cómo usar esta plantilla:** si quieres ayuda de una IA, usa el prompt [`prompts/draft-vep.md`](../prompts/draft-vep.md). Copia este archivo como `VEP-XXXX-short-title.md` (nombre de archivo en inglés; contenido en castellano), usa `XXXX` como número provisional (los mantenedores asignarán el definitivo al fusionar), rellena cada sección, mantén en inglés las claves y valores del encabezado (los lee la automatización del proyecto) y borra estas notas en cursiva. Si una sección no aplica, escribe "No aplica" y explica brevemente por qué.
 
 ## Resumen
 

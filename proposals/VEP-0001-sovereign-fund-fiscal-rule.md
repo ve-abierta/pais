@@ -8,6 +8,7 @@ created: 2026-09-29
 updated: 2026-09-29
 replaces: []
 related: []
+ai_assisted: true
 ---
 
 # VEP-0001: Fondo Soberano y Regla Fiscal para los ingresos petroleros
@@ -131,4 +132,4 @@ La regla fiscal puede aplicarse aunque la producción petrolera siga siendo baja
 
 | Fecha | Cambio | Autor |
 |-------|--------|-------|
-| 2026-09-29 | Versión inicial | silvinux |
+| 2026-09-29 | Versión inicial (borrador asistido por IA, ver [AI_POLICY](../AI_POLICY.md)) | silvinux |

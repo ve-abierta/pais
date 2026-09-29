@@ -46,6 +46,9 @@ Pasa a formar parte del conjunto de propuestas del proyecto, se resume en un doc
 ### ¿Y si no estoy de acuerdo con una propuesta aceptada?
 Puedes escribir una nueva VEP que la mejore o la reemplace. Las propuestas no son definitivas: evolucionan con nuevos datos y argumentos.
 
+### ¿Puedo usar inteligencia artificial para escribir una propuesta?
+Sí, siempre que verifiques cada dato y cada fuente, lo declares y puedas defender tu propuesta sin depender de la herramienta. Los propios documentos fundacionales del proyecto se redactaron con asistencia de IA. Ver [AI_POLICY](AI_POLICY.md).
+
 ### ¿Por qué los nombres de archivo están en inglés si el contenido está en castellano?
 Por convención técnica: GitHub reconoce ciertos nombres de archivo, se evitan problemas con tildes y eñes en las rutas, y facilita la automatización y la futura versión en inglés.
 

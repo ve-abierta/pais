@@ -11,6 +11,8 @@
 | Profesionales TIC en el país y en la diáspora | — | — | Encuestas de desarrolladores, estudios de mercado | |
 | Exportación de servicios digitales | — | — | BCV, estimaciones privadas | |
 | Existencia de ley de protección de datos personales | — | — | Marco legal vigente | |
+| Estrategia o marco legal de IA | — | — | Marco legal vigente | |
+| Preparación del Estado para la IA | — | — | Government AI Readiness Index (Oxford Insights), ILIA | |
 | Madurez en ciberseguridad | — | — | UIT (Global Cybersecurity Index) | |
 
 *Rellenar una fila es una excelente primera contribución. Cada dato debe incluir su fuente exacta (enlace o referencia) en la columna de notas.*

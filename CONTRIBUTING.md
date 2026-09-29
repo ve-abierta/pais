@@ -43,6 +43,14 @@ Una buena contribución:
 
 ---
 
+## Uso de inteligencia artificial
+
+Puedes usar IA para redactar, traducir o buscar fuentes, pero eres responsable de todo lo que envías: verifica cada dato, lee cada fuente que cites y declara el uso. Las reglas completas están en [AI_POLICY](AI_POLICY.md).
+
+En la carpeta [`prompts/`](prompts/) tienes prompts listos para [redactar](prompts/draft-vep.md) y [revisar](prompts/review-vep.md) una VEP dentro del marco del proyecto.
+
+---
+
 ## Si no usas Git
 
 Puedes contribuir por completo desde la web de GitHub:

@@ -8,6 +8,7 @@ created: 2026-09-29
 updated: 2026-09-29
 replaces: []
 related: [VEP-0100]
+ai_assisted: true
 ---
 
 # VEP-0101: Energía solar para servicios esenciales y legalización del autoconsumo
@@ -175,4 +176,4 @@ Se proponen dos medidas que se refuerzan mutuamente. La primera es un **programa
 
 | Fecha | Cambio | Autor |
 |-------|--------|-------|
-| 2026-09-29 | Versión inicial | silvinux |
+| 2026-09-29 | Versión inicial (borrador asistido por IA, ver [AI_POLICY](../AI_POLICY.md)) | silvinux |

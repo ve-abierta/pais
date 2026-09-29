@@ -33,6 +33,7 @@ Por el contexto venezolano, estas conductas se consideran **especialmente graves
 - Publicar datos personales de terceros (nombres, direcciones, teléfonos, lugares de trabajo, fotos, familiares) sin su permiso explícito.
 - Amenazar con denunciar a alguien ante autoridades, empleadores o grupos por su participación en el proyecto.
 - Recopilar información de los participantes con fines de vigilancia o persecución.
+- Usar cualquier herramienta, incluida la inteligencia artificial, para identificar o perfilar a quien participa con seudónimo.
 
 ## Responsabilidades de los mantenedores
 

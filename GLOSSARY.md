@@ -78,15 +78,21 @@ Términos que aparecen en el proyecto, explicados para cualquier persona. Si enc
 
 ## Tecnología
 
+**Alucinación (IA).** Error por el que un modelo de inteligencia artificial inventa datos, citas o fuentes y los presenta como ciertos.
+
 **CSIRT.** Equipo de respuesta a incidentes de ciberseguridad.
 
 **Datos abiertos.** Datos públicos publicados en formatos que cualquiera puede descargar, reutilizar y analizar libremente.
 
 **Interoperabilidad.** Capacidad de distintos sistemas y organismos de intercambiar información y usarla.
 
+**Modelo de lenguaje.** Sistema de inteligencia artificial entrenado con grandes cantidades de texto, capaz de redactar, resumir o traducir.
+
 **mTLS.** Autenticación mutua: en una comunicación, ambos extremos demuestran su identidad con certificados digitales.
 
 **PKI (infraestructura de clave pública).** Sistema que emite y gestiona los certificados digitales que garantizan la identidad de personas, organismos y servidores.
+
+**Registro de algoritmos.** Lista pública de los sistemas automatizados que usa una administración para tomar decisiones, con su propósito, sus datos y sus riesgos.
 
 **X-Road.** Plataforma de interoperabilidad de código abierto creada por Estonia y usada por varios países.
 

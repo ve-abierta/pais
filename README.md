@@ -85,6 +85,8 @@ Para mantener su credibilidad, País no negocia apoyos a cambio de influencia, n
 | [Manifiesto](MANIFESTO.md) | Los principios que todos aceptamos al contribuir |
 | [Gobernanza](GOVERNANCE.md) | Quién decide y cómo se aprueban las propuestas |
 | [Cómo contribuir](CONTRIBUTING.md) | Guía paso a paso para participar |
+| [Prompts](prompts/) | Prompts para redactar y revisar propuestas con IA dentro del marco del proyecto |
+| [Uso de inteligencia artificial](AI_POLICY.md) | Cómo se puede usar la IA en el proyecto y qué está prohibido |
 | [Código de conducta](CODE_OF_CONDUCT.md) | Normas de convivencia y cómo reportar problemas |
 | [Glosario](GLOSSARY.md) | Términos técnicos explicados para cualquier persona |
 | [Preguntas frecuentes](FAQ.md) | Respuestas a las dudas más habituales |

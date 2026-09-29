@@ -19,6 +19,7 @@ La tecnología atraviesa todas las demás áreas: un Estado digital reduce la co
 | **Industria del software y servicios** | Exportación de servicios digitales, *nearshoring*, startups, trabajo remoto formal |
 | **Pagos digitales** | Sistema de pagos instantáneos, inclusión financiera, cobro de servicios desde el exterior |
 | **Infraestructura digital del Estado** | Nube pública o privada, centros de datos, continuidad del servicio |
+| **Inteligencia artificial** | Marco regulatorio basado en el riesgo, uso de la IA en el Estado con supervisión humana, transparencia algorítmica, formación, impacto en el empleo |
 | **Habilidades digitales** | Formación en programación y ciberseguridad, reconversión profesional |
 
 *Relación con otras áreas: la red física de telecomunicaciones está en [Infraestructura](../infrastructure/), la educación digital en las escuelas está en [Educación](../education/) y la transparencia institucional está en [Instituciones](../institutions/).*
@@ -38,25 +39,32 @@ La tecnología atraviesa todas las demás áreas: un Estado digital reduce la co
 - Régimen para que profesionales y empresas exporten servicios digitales y cobren desde el exterior de forma legal y sencilla.
 - Portal nacional de datos abiertos.
 - Programa de colaboración con desarrolladores de la diáspora.
+- Marco legal de la IA basado en el riesgo, con obligaciones proporcionales al impacto de cada sistema.
+- Registro público de los algoritmos que usa el Estado para tomar decisiones sobre ciudadanos.
+- Reglas para el uso de IA en la administración pública: supervisión humana, derecho a explicación y a reclamar.
+- Programa nacional de formación en IA para docentes, funcionarios y trabajadores.
 
 ## Grandes debates abiertos
 
 - **¿Software libre obligatorio o preferente en el Estado?** Venezuela ya tuvo una política de software libre obligatorio en la administración pública (Decreto 3.390 de 2004). ¿Qué funcionó, qué no y qué aprendimos?
 - **¿Nube soberana o nube pública internacional?** ¿Qué datos del Estado pueden alojarse fuera del país y bajo qué condiciones?
 - **¿Cómo equilibrar identidad digital y privacidad?** Una identidad digital centralizada facilita los trámites, pero también la vigilancia si no hay garantías.
+- **¿Regular la IA ahora o esperar?** Regular pronto da garantías, pero puede frenar la innovación en un país que necesita ponerse al día.
+- **¿Prohibir el reconocimiento facial en espacios públicos?** Puede ayudar en seguridad, pero es una herramienta de vigilancia masiva.
+- **¿Dónde se usa la IA en el Estado y dónde no?** ¿Debe poder decidir sobre ayudas, impuestos o justicia?
 - **¿Qué papel tienen las criptomonedas y los pagos digitales?** Muchos venezolanos ya los usan para protegerse de la inflación y recibir remesas.
 
 ## Experiencias comparables para estudiar
 
-Estonia (identidad digital e interoperabilidad con X-Road), India (identidad digital y pagos instantáneos con UPI), Brasil (pagos instantáneos con Pix), Uruguay (agencia de gobierno digital AGESIC y Plan Ceibal), Ucrania (servicios públicos en el móvil con Diia), Costa Rica y Uruguay (exportación de servicios de software), Reino Unido (Government Digital Service).
+Estonia (identidad digital e interoperabilidad con X-Road), India (identidad digital y pagos instantáneos con UPI), Brasil (pagos instantáneos con Pix), Uruguay (agencia de gobierno digital AGESIC y Plan Ceibal), Ucrania (servicios públicos en el móvil con Diia), Costa Rica y Uruguay (exportación de servicios de software), Reino Unido (Government Digital Service), Unión Europea (reglamento de IA basado en el riesgo), Ámsterdam y Helsinki (registros públicos de algoritmos), Canadá (directiva sobre decisiones automatizadas en el gobierno), Chile y Uruguay (estrategias nacionales de IA), Brasil (proyecto de ley de IA).
 
 ## Fuentes de datos
 
-CONATEL, Unión Internacional de Telecomunicaciones (UIT), índice de gobierno electrónico de la ONU, BID, OCDE, Banco Mundial (GovTech Maturity Index) y encuestas de desarrolladores.
+CONATEL, Unión Internacional de Telecomunicaciones (UIT), índice de gobierno electrónico de la ONU, BID, OCDE, Banco Mundial (GovTech Maturity Index) encuestas de desarrolladores, Government AI Readiness Index (Oxford Insights) e Índice Latinoamericano de Inteligencia Artificial (ILIA).
 
 ## Perfiles que buscamos
 
-Desarrolladores, arquitectos de sistemas y de nube, administradores de sistemas, especialistas en ciberseguridad, científicos de datos, diseñadores de servicios digitales, abogados especializados en tecnología y emprendedores tecnológicos.
+Desarrolladores, arquitectos de sistemas y de nube, administradores de sistemas, especialistas en ciberseguridad, científicos de datos, diseñadores de servicios digitales, especialistas en IA y ética de datos, abogados especializados en tecnología y emprendedores tecnológicos.
 
 ## Mantenedores
 

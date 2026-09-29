@@ -8,6 +8,7 @@ created: 2026-09-29
 updated: 2026-09-29
 replaces: []
 related: [VEP-0001]
+ai_assisted: true
 ---
 
 # VEP-0100: Plataforma Nacional de Interoperabilidad entre organismos públicos
@@ -204,4 +205,4 @@ El valor de la plataforma depende de conectar primero los registros que más se 
 
 | Fecha | Cambio | Autor |
 |-------|--------|-------|
-| 2026-09-29 | Versión inicial | silvinux |
+| 2026-09-29 | Versión inicial (borrador asistido por IA, ver [AI_POLICY](../AI_POLICY.md)) | silvinux |
